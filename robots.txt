@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tangereapp.com/60-of-filipinos-back-proposed-economic-charter-change-survey/sitemap.xml
